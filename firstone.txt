@@ -1,2 +1,2 @@
-http:hyper text transfer protocol
-www:world wide web
+http: hyper text transfer protocol
+WWW: world wide web
