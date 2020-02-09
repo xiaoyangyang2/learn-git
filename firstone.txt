@@ -1,2 +1,3 @@
 http: hyper text transfer protocol
 WWW: world wide web
+https:安全的浏览器地址方式、推荐使用
